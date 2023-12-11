@@ -77,4 +77,3 @@ function lcm($a, $b)
 
 
 include __DIR__ . '/template.php';
-//11567 21251 913793
